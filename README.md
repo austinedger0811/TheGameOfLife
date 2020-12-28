@@ -11,6 +11,9 @@ https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 3. Any live cell with more than three live neighbours dies, as if by overpopulation.
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
+# Run
+python life.py
+
 # What's Next
 * Add suport for users to design their own start patterns
 * Increase runtime speed by using bit operations
