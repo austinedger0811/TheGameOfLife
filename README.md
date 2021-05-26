@@ -1,4 +1,4 @@
-# TheGameOfLife
+# The Game of Life
 In this project, my objective is to develope Conway's Game of Life while increasing my knowledge of Python and the PyGame engine.
 
 # What is The Game of Life?
